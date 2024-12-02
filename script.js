@@ -122,7 +122,7 @@ checkoutBtn.addEventListener("click", function () {
   if (cart.length === 0) return;
 
   // Define valor padrão para o número da mesa, desativando a validação
-  const mesaNumero = "1"; 
+  const mesaNumero = "4"; 
 
   // Montando a mensagem do pedido
   let message = "Olá, gostaria de fazer um pedido:\n\n";
